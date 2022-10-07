@@ -2,7 +2,13 @@ body{
     background-color: salmon;
 }
 h1{
-    color: lightskyblue;
+    color: rgba(135, 206, 250, 0.822);
     font-family: sans-serif;
-    background: ;
+    background:crimson;
+}
+p{
+color:black;
+font-family: sans-serif;
+font-size: medium;
+background: lightcoral;
 }
