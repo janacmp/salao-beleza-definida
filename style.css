@@ -3,9 +3,9 @@ body{
 }
 
 h1{
-    color: rgba(135, 206, 250, 0.822);
+    color:crimson;
     font-family: Medium;
-    background:crimson;
+    background:tomato;
 }
 p{
 color:black;
